@@ -7,3 +7,7 @@ sudo nano /etc/dhcpcd.conf
     static ip_address=192.168.0.2/24
     static routers=192.168.0.1
     static domain_name_servers=192.168.0.1
+python library
+  pip install paho-mqtt
+  pip3 install --upgrade google-api-python-client
+  
